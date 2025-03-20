@@ -63,7 +63,7 @@ The Details Dashboard provides a comprehensive view of all essential information
 # Key Insights
 
 - The bank has processed 38.6K loan applications with $435.8M in funded amount
-- 
+  
 -86.18% of loans are classified as "Good Loans" (Fully Paid or Current status)
   
 -13.82% of loans are classified as "Bad Loans" (Charged Off status)
