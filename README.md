@@ -16,8 +16,9 @@ Visualizes loan trends and statistics across different dimensions
 
 Enables data-driven decision making for lending strategies
 
+
 1. Summary Dashboard
-2. 
+
 The Summary Dashboard presents key performance indicators for the bank's loan portfolio:
 
 -Total loan applications (38.6K) with MTD and MoM tracking
@@ -37,6 +38,7 @@ The dashboard also distinguishes between:
 -Bad Loans: 13.82% of applications (5.3K) with $65.5M funded and $37.3M received
 
 A loan status grid view provides detailed metrics for each loan status category (Fully Paid, Charged Off, Current).
+
 
 2. Overview Dashboard
 
